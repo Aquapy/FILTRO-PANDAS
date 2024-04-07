@@ -1,6 +1,8 @@
 
 Título del video: "Filtrando DataFrames en Python: Cómo Dominar la Manipulación de Datos"
 
+![Fitrando datos en pandas]([URL_de_la_imagen](https://github.com/Aquapy/FILTRO-PANDAS/blob/main/Fondo.jpg))
+
 Descripción:
 En este video, te sumergirás en el fascinante mundo de la manipulación de datos utilizando Pandas en Python. Aprenderás cómo filtrar eficientemente datos en DataFrames, una tarea fundamental en el análisis de datos. Comenzaremos desde lo básico, explicando qué es un DataFrame y cómo se puede acceder a los datos dentro de él. Luego, profundizaremos en diferentes técnicas de filtrado que te permitirán extraer información específica según tus necesidades.
 
