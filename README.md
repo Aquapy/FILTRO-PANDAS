@@ -6,5 +6,6 @@ En este video, te sumergirás en el fascinante mundo de la manipulación de dato
 
 Exploraremos cómo utilizar métodos como loc[] y iloc[] para seleccionar filas y columnas basadas en etiquetas de índice o posiciones numéricas. Además, cubriremos el uso de operadores lógicos y comparativos para filtrar datos basados en condiciones específicas, como valores mayores que cierto umbral o igual a un valor dado. Para aprender más consulta nuestro video:
 
+* [Filtrar dataframes](https://www.youtube.com/watch?v=0MEoGE1Cd04)
 
-https://www.youtube.com/watch?v=0MEoGE1Cd04
+
