@@ -1,5 +1,4 @@
-
-Título del video: "Filtrando DataFrames en Python: Cómo Dominar la Manipulación de Datos"
+# Filtrando DataFrames en Python: Cómo Dominar la Manipulación de Datos
 
 ![Fitrando datos en pandas](https://github.com/Aquapy/FILTRO-PANDAS/blob/main/Fondo.jpg?raw=true)
 
